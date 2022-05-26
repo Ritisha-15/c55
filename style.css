@@ -1,0 +1,27 @@
+body{
+	background-color: black;
+	
+}
+
+h1{
+	color:aquamarine;
+	
+}
+
+h4{
+	color:crimson;
+	
+}
+
+span{
+	color:beige;
+	padding-left:80px;
+	padding-right:80px;
+}
+
+img{
+	height: 200px;
+	width: 250px;
+	border-color:azure;
+	border-style: double;
+}
